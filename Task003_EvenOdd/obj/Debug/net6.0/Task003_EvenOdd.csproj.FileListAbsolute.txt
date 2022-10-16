@@ -1,0 +1,15 @@
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar1\Task003_EvenOdd\bin\Debug\net6.0\Task003_EvenOdd.exe
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar1\Task003_EvenOdd\bin\Debug\net6.0\Task003_EvenOdd.deps.json
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar1\Task003_EvenOdd\bin\Debug\net6.0\Task003_EvenOdd.runtimeconfig.json
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar1\Task003_EvenOdd\bin\Debug\net6.0\Task003_EvenOdd.dll
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar1\Task003_EvenOdd\bin\Debug\net6.0\Task003_EvenOdd.pdb
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar1\Task003_EvenOdd\obj\Debug\net6.0\Task003_EvenOdd.csproj.AssemblyReference.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar1\Task003_EvenOdd\obj\Debug\net6.0\Task003_EvenOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar1\Task003_EvenOdd\obj\Debug\net6.0\Task003_EvenOdd.AssemblyInfoInputs.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar1\Task003_EvenOdd\obj\Debug\net6.0\Task003_EvenOdd.AssemblyInfo.cs
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar1\Task003_EvenOdd\obj\Debug\net6.0\Task003_EvenOdd.csproj.CoreCompileInputs.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar1\Task003_EvenOdd\obj\Debug\net6.0\Task003_EvenOdd.dll
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar1\Task003_EvenOdd\obj\Debug\net6.0\refint\Task003_EvenOdd.dll
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar1\Task003_EvenOdd\obj\Debug\net6.0\Task003_EvenOdd.pdb
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar1\Task003_EvenOdd\obj\Debug\net6.0\Task003_EvenOdd.genruntimeconfig.cache
+C:\Users\ЕЛЕНА\Desktop\Отработка git\Homework\C#\Seminar1\Task003_EvenOdd\obj\Debug\net6.0\ref\Task003_EvenOdd.dll
